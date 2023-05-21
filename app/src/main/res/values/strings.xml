@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hynvi Florist App</string>
+    <string name="email_hint">Masukan email..</string>
+    <string name="pw_hint">Masukan password..</string>
+</resources>
